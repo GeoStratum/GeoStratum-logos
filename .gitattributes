@@ -1,0 +1,23 @@
+# Auto detect text files and perform LF normalization
+* text=auto eol=lf
+
+# Explicitly declare text files
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.svg text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Binary media files (prevent line ending tampering)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ico binary
+*.webp binary
+*.gif binary
+*.ai binary
+*.psd binary
+
+# Git LFS configuration for high-resolution master image assets (>10MB)
+assets/square/master-highres/*.png filter=lfs diff=lfs merge=lfs -text

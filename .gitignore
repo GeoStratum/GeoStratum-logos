@@ -1,0 +1,41 @@
+# OS generated files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editor & IDE directories
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*~
+
+# Temporary & backup files
+*.bak
+*.tmp
+*.temp
+*~
+*.orig
+
+# Node / Build outputs (if web builds or scripts are added later)
+node_modules/
+dist/
+build/
+.cache/
+
+# Local environment and private notes
+.env
+.env.local
+private/
+scratch/
