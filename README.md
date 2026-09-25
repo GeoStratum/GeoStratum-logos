@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/Website-geostratum.eu-0f8994?style=flat-square&logo=google-chrome&logoColor=white)](https://www.geostratum.eu/)
 [![Organization](https://img.shields.io/badge/GitHub-GeoStratum-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeoStratum)
-[![License: Proprietary](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=flat-square)](LICENSE.md)
+[![License: Proprietary](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=flat-square)](LICENSE)
 
 <br/>
 
@@ -15,7 +15,7 @@
   <em>Official visual identity, vector graphics, logos, banners, and digital media assets.</em>
 </p>
 
-[**Official Website**](https://www.geostratum.eu/) • [**License & Usage Terms**](LICENSE.md) • [**Social Links**](#-official-links--social-media)
+[**Official Website**](https://www.geostratum.eu/) • [**License & Usage Terms**](LICENSE) • [**Social Links**](#-official-links--social-media)
 
 </div>
 
@@ -40,7 +40,7 @@ All visual assets have been systematically categorized and renamed using clear, 
 GeoStratum/
 ├── .gitattributes                               # Line ending normalization & Git LFS tracking
 ├── .gitignore                                   # Ignore OS, editor, and build artifacts
-├── LICENSE.md                                   # Proprietary brand license (All Rights Reserved)
+├── LICENSE                                      # Proprietary brand license (All Rights Reserved)
 ├── README.md                                    # Documentation and usage guidelines
 └── assets/
     ├── vector/                                  # Scalable resolution-independent vector assets
@@ -97,7 +97,7 @@ The visual palette reflects the stratification of geological formations blended 
 > - **No authorization is granted** to copy, modify, distribute, publish, or commercially exploit any asset without express written consent.
 > - Unauthorized use of the GeoStratum identity to brand third-party software, libraries, services, or suggest official affiliation is strictly forbidden.
 > 
-> For full legal terms, refer to the [LICENSE.md](LICENSE.md) file.
+> For full legal terms, refer to the [LICENSE](LICENSE) file.
 
 ---
 
